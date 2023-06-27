@@ -1,0 +1,58 @@
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.csproj.AssemblyReference.cache
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\RegistrationWindow.g.cs
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\App.g.cs
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL_MarkupCompile.cache
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL_MarkupCompile.lref
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\bin\Debug\FurnitureSQL.exe.config
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\bin\Debug\FurnitureSQL.exe
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\bin\Debug\FurnitureSQL.pdb
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\RegistrationWindow.baml
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.g.resources
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.Properties.Resources.resources
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.csproj.GenerateResource.cache
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.exe
+C:\Users\nyanp\source\repos\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.pdb
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\bin\Debug\FurnitureSQL.exe.config
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\bin\Debug\FurnitureSQL.exe
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\bin\Debug\FurnitureSQL.pdb
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.csproj.AssemblyReference.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\RegistrationWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\App.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL_MarkupCompile.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL_MarkupCompile.lref
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\RegistrationWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.g.resources
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.Properties.Resources.resources
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.csproj.GenerateResource.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.exe
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureSQL.pdb
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\LoginWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\LoginWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\CustomerWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\CustomerWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MasterWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MasterWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\DirectorWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\DirectorWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\ManagerWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\ManagerWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\DeputyDirectorWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\DeputyDirectorWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\WorkshopElementsWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\WorkshopElementsWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MachineListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MachineListWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MachineRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MachineRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\CharRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MaterialsListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\CharRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MaterialsListWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MaterialRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\MaterialRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureRedactAddWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureListWindow.g.cs
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureRedactAddWindow.baml
+C:\Users\nyanp\Desktop\Практика SQL Павильоны и Заказ Мебели\Демо_Заказ_мебели\Приложение\FurnitureSQL\FurnitureSQL\obj\Debug\FurnitureListWindow.baml

@@ -1,0 +1,20 @@
+﻿<Window x:Class="FurnitureSQL.RegistrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Регистрация" Height="450" Width="800">
+    <Grid Background="#FFF1F5FB">
+        <TextBox x:Name="First_name_box" HorizontalAlignment="Center" Height="24" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166" FontFamily="Proxima Nova" Margin="0,0,0,100"/>
+        <TextBox x:Name="Last_name_box" HorizontalAlignment="Center" Height="23" Margin="0,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166"/>
+        <Button x:Name="Enter_button" Content="Ввести" HorizontalAlignment="Center" Height="39" VerticalAlignment="Bottom" Width="100" Click="Enter_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="0,0,0,20"/>
+        <Label Content="Имя:" HorizontalAlignment="Center" Height="33" Margin="0,0,210,100" VerticalAlignment="Center" Width="38" FontFamily="Proxima Nova" FontWeight="Bold"/>
+        <Label Content="Фамилия:" HorizontalAlignment="Center" Height="33" Margin="0,0,230,0" VerticalAlignment="Center" Width="82" FontFamily="Proxima Nova" FontWeight="Bold"/>
+        <Label Content="Отчество:" HorizontalAlignment="Center" Height="33" Margin="0,100,250,0" VerticalAlignment="Center" Width="66" FontFamily="Proxima Nova" FontWeight="Bold"/>
+        <Button x:Name="Back_button" Content="Назад" HorizontalAlignment="Left" Height="39"  VerticalAlignment="Bottom" Width="79" Click="Back_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontWeight="Bold" FontSize="15" Margin="20,0,0,20"/>
+        <TextBox x:Name="Surname_box" HorizontalAlignment="Center" Height="24" Margin="0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166"/>
+    </Grid>
+</Window>

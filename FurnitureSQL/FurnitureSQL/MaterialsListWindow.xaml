@@ -1,0 +1,36 @@
+﻿<Window x:Class="FurnitureSQL.MaterialsListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Материалы" Height="450" Width="800">
+    <Grid Background="#FFF1F5FB">
+        <DataGrid x:Name="MaterialGrid" SelectionMode="Extended" SelectionUnit="FullRow" AutoGenerateColumns ="False" IsReadOnly="True" Height="250" MaxHeight="250" Width="760" MaxWidth="760" FontSize="13" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,100" SelectedCellsChanged="MaterialGrid_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Number}" Header="Артикул"/>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Название"/>
+                <DataGridTextColumn Binding="{Binding Measure}" Header="Единица измерения"/>
+                <DataGridTextColumn Binding="{Binding Length}" Header="Длина"/>
+                <DataGridTextColumn Binding="{Binding Type}" Header="Тип"/>
+                <DataGridTextColumn Binding="{Binding Cost}" Header="Цена"/>
+                <DataGridTextColumn Binding="{Binding Criteria}" Header="ГОСТ"/>
+                <DataGridTextColumn Binding="{Binding Quan}" Header="Количество"/>
+                <DataGridTextColumn Binding="{Binding Supplier}" Header="Поставщик"/>
+                <DataGridTextColumn Binding="{Binding DeliverTime}" Header="Время доставки (мес.)"/>
+                <DataGridTextColumn Binding="{Binding Quality}" Header="Качество"/>
+                <DataGridTextColumn Binding="{Binding Status}" Header="Статус"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Add_button" Content="Добавить материал" HorizontalAlignment="Right" Height="39" VerticalAlignment="Bottom" Width="200" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="0,0,20,60" Click="Add_button_Click"/>
+        <Button x:Name="Redact_button" Content="Редактировать материал" HorizontalAlignment="Right" Height="39" VerticalAlignment="Bottom" Width="200" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="0,0,20,10" Click="Redact_button_Click"/>
+        <ComboBox x:Name="QualityBox" Height="30" Width="166" MaxWidth="166" MaxHeight="30" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,310,60" SelectionChanged="QualityBox_SelectionChanged"/>
+        <Label Content="Сортировать по качеству:" HorizontalAlignment="Center" Height="33" Margin="0,0,310,90" VerticalAlignment="Bottom" Width="170" FontFamily="Proxima Nova" FontWeight="Bold"/>
+
+
+        <Button x:Name="Back_button" Content="Назад" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Back_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,60"/>
+        <Button x:Name="Exit_button" Content="Выйти" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Exit_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,10"/>
+    </Grid>
+</Window>

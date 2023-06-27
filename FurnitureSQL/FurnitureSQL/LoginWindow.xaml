@@ -1,0 +1,23 @@
+﻿<Window x:Class="FurnitureSQL.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Вход" Height="450" Width="800">
+    <Grid Background="#FFF1F5FB">
+        <TextBox x:Name="login_box" HorizontalAlignment="Center" Height="24" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166" FontFamily="Proxima Nova" Margin="0,0,0,100"/>
+        <TextBox x:Name="password_box" HorizontalAlignment="Center" Height="24" Margin="0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166"/>
+        <Button x:Name="Enter_button" Content="Ввести" HorizontalAlignment="Center" Height="39" VerticalAlignment="Center" Width="100" Click="Enter_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="0,100,0,0"/>
+        <Button x:Name="Reg_button" Content="Зарегистрироваться" HorizontalAlignment="Center" Height="39" VerticalAlignment="Center" Width="200" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="0,220,0,0" Click="Reg_button_Click"/>
+        <Label Content="Логин:" HorizontalAlignment="Center" Height="33" Margin="0,0,230,100" VerticalAlignment="Center" Width="50" FontFamily="Proxima Nova" FontWeight="Bold"/>
+        <Label Content="Пароль:" HorizontalAlignment="Center" Height="33" Margin="0,0,240,0" VerticalAlignment="Center" Width="60" FontFamily="Proxima Nova" FontWeight="Bold"/>
+        
+        <Label x:Name="CapchaLable" Content="Введите символы ниже:" Height="33" Width="170" FontFamily="Proxima Nova" FontWeight="Bold" Margin="0,0,100,100" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBox x:Name="capcha_box" HorizontalAlignment="Right" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166" FontFamily="Proxima Nova" Margin="0,60,110,0"/>
+        <Label x:Name="GeneratedCapchaLabel" Height="33" Width="123" FontFamily="Curlz MT" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="20" Margin="0,0,130,30"/>
+        <Button x:Name="CapchaButton" Content="Ввести" HorizontalAlignment="Right" Height="24" VerticalAlignment="Center" Width="59" Margin="0,60,30,0" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="12" FontWeight="Bold" Click="CapchaButton_Click"/>
+    </Grid>
+</Window>

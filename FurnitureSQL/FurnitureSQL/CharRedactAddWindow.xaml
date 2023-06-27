@@ -1,0 +1,21 @@
+﻿<Window x:Class="FurnitureSQL.CharRedactAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Добавить Характеристику" Height="450" Width="800">
+    <Grid Background="#FFF1F5FB">
+        <TextBox x:Name="name_box" HorizontalAlignment="Center" Height="24" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166" FontFamily="Proxima Nova" Margin="0,0,200,0"/>
+        <TextBox x:Name="value_box" HorizontalAlignment="Center" Height="24" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="166" FontFamily="Proxima Nova" Margin="200,0,0,0"/>
+        <Button x:Name="Enter_button" Content="Принять" HorizontalAlignment="Center" Height="39" VerticalAlignment="Center" Width="100" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="0,110,0,0" Click="Enter_button_Click"/>
+        <Label Content="Характеристика:" HorizontalAlignment="Center" Height="33" Margin="0,0,240,60" VerticalAlignment="Center" Width="120" FontFamily="Proxima Nova" FontWeight="Bold"/>
+        <Label Content="Значение:" HorizontalAlignment="Center" Height="33" Margin="160,0,0,60" VerticalAlignment="Center" Width="120" FontFamily="Proxima Nova" FontWeight="Bold"/>
+
+
+        <Button x:Name="Back_button" Content="Назад" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Back_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,60"/>
+        <Button x:Name="Exit_button" Content="Выйти" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Exit_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,10"/>
+    </Grid>
+</Window>

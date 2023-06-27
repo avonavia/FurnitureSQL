@@ -1,0 +1,25 @@
+﻿<Window x:Class="FurnitureSQL.WorkshopElementsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FurnitureSQL"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Схема Цеха" Height="450" Width="800">
+    <Grid Background="#FFF1F5FB">
+        <Canvas x:Name="Scheme" HorizontalAlignment="Center" Height="401" Margin="125,0,0,0" VerticalAlignment="Center" Width="658" MouseUp="Scheme_MouseUp" MouseDown="Scheme_MouseDown" MouseMove="Scheme_MouseMove">
+            <Canvas.Background>
+                <ImageBrush x:Name="SchemeImage"/>
+            </Canvas.Background>
+            <Image x:Name="FE" Stretch="Fill" Source="fe.png" Height="50" Width="50" Canvas.Left="-199" Canvas.Top="24" MouseDown="FE_MouseDown"/>
+            <Image x:Name="Medkit" Stretch="Fill" Source="medkit.png" Height="50" Width="50" Canvas.Left="-199" Canvas.Top="73" MouseDown="Medkit_MouseDown"/>
+            <Image x:Name="Exit" Stretch="Fill" Source="exit.png" Height="50" Width="50" Canvas.Left="-199" Canvas.Top="122" MouseDown="Exit_MouseDown"/>
+        </Canvas>
+        <Label x:Name="ElementsLable" Content="Элементы:" Height="24" Width="80" FontFamily="Proxima Nova" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,10,0,0"/>
+        <Button x:Name="Enter_button" Content="Сохранить" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Enter_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,110"/>
+        <Button x:Name="Back_button" Content="Назад" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Back_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,60"/>
+        <Button x:Name="Exit_button" Content="Выйти" HorizontalAlignment="Left" Height="39" VerticalAlignment="Bottom" Width="100" Click="Exit_button_Click" Background="#FF89C2EF" Foreground="#FF1B262C" FontFamily="Proxima Nova" FontSize="15" FontWeight="Bold" Margin="10,0,0,10"/>
+        <ComboBox x:Name="SchemeBox" Height="30" Width="100" MaxWidth="130" MaxHeight="30" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,70,0,0" SelectionChanged="SchemeBox_SelectionChanged"/>
+    </Grid>
+</Window>
